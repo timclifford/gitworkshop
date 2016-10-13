@@ -124,6 +124,9 @@ h1 {
     color: #536878;  /* 'Dark electric blue' */
     text-align: center;
 }
+h1.home {
+    color: teal;
+}
 h2.cafes {
     color: #6f4e37;
 }
