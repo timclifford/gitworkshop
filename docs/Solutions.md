@@ -30,16 +30,16 @@ You are on the branch *pub_kensington_arms*. ```git merge development``` creates
 ```Auto-merging css/styles.css```<br />
 ```CONFLICT (content): Merge conflict in css/styles.css```<br />
 ```Automatic merge failed; fix conflicts and then commit the result.```<br />
-Open a the files in a text editor, or a diff tool and fix the conflicts. Then add them to the staging area and commit them: <br />
+Open the files in a text editor, or a diff tool and fix the conflicts. Then add them to the staging area and commit them: <br />
 ```git add index.html css/styles.css```<br />
 ```git commit -m"resolve conflicts from merge"```
 
 ##4. Clear up that mess
 Interactive rebasing! <br />
 <br />
-So here we want to tidy up the history a bit. You could do<br />
+So here we want to tidy up the history a bit. You could do any of these commands<br />
 ```git rebase -i 15e3d00```<br />
-```git rebase -i HEAD~4```<br />
+```git rebase -i HEAD~4``` or <br />
 ```git rebase -i origin/master```<br />
 <br />
 Then when your default editor opens, you can pick from various options for each commit, you replace the 'pick' in front of a commit by 'squash'(s), 'edit'(e) etc.<br />
