@@ -14,3 +14,6 @@ Below is the file structure of this repo. Let's try and add some cafes and pubs.
 <br />
 
 ![Project file structure](file_structure.jpg)
+<br />
+You can find the solutions to the exercises here: https://github.com/CodeHubOrg/gitworkshop/blob/master/docs/Solutions.md
+
