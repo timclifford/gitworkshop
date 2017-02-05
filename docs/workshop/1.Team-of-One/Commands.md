@@ -2,7 +2,7 @@
 ## Commands used in 'Team of One'
 
 **git clone**
-git clone `[<dir>]`
+git clone `<url-repo> [<dir>]`
 
 **git log**
 Try: 
