@@ -161,6 +161,10 @@ h2.pubs {
      width: 100%;
 }
 
+.menu li {
+    display: inline-block;
+}
+
 @media (min-width: 640px){
     .columns {
         -moz-column-count: 2;
