@@ -21,6 +21,7 @@ We would like to get the changes from another branch into *train-master*. The br
 **Time-travelling -- Reflog**         
 If you have accidentally lost a commit or commits, use the Reflog. This is a list of all the commits you have made in the past 60 days. Check it out with `git reflog`! You can use `git show <commit>` to look what is inside a commit. Run `git reset HEAD@{index}` to take the project back to it. 
 
+More Exercises at [3. README](../3.Open-Source/README.md)
 
 
 
