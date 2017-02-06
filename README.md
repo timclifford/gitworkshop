@@ -4,4 +4,7 @@ This repository was set up for a Git workshop for CodeHub Bristol in October 201
 
 Here are the [exercises](docs/workshop/README.md) for the February 2017 workshop.
 
+And these are some slides illustrating some of the concepts: https://slides.com/katjadurrani/git-2017/live#/
+
+
 
