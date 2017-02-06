@@ -26,7 +26,7 @@ Fork the repository - https://github.com/CodeHubOrg/gitworkshop - to your own Gi
 - Add the index file again and commit all the changes. 
 
 **Undoing changes**
-- You do not really want to keep the file or files you just commited. How can you restore things to the last commit before yours? (use `git reset`)
+- You do not really want to keep the file you just commited. How can you restore things to the last commit before yours? (use `git reset`)
 - Now, add a paragraph to the index.html page in the root of the project. Then add a random file.
 - Run `git status`. We will have an untracked and a modified file
 - You suddenly think this wasn't a good idea at all. You have not committed anything yet, but want to get rid off all the changes. Use abother `git reset` to achieve this. 
