@@ -11,4 +11,4 @@ People should get into teams to work on one of three features: Menu bar, About p
 ['Publish and Share' Exercises](2.Publish-and-Share/README.md)             
 ['Publish and Share' Commands](2.Publish-and-Share/Commands.md)        
 ['Open Source' Exercises](3.Open-Source/README.md)       
-['Open Source' Commands](3.Commands/README.md)       
+['Open Source' Commands](3.Open-Source/Commands.md)       
